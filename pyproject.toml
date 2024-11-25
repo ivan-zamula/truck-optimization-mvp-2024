@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "truck-optimization-mvp"
+version = "0.1.0"
+description = "Truck Optimization MVP with Salabim and FastAPI."
+license = {file = "LICENSE"}
+requires-python = ">=3.11"
+dependencies = [
+    "salabim==26.0.8",
+    "fastapi==0.145.0",
+    "uvicorn==0.54.0",
+    "pydantic>=2.9,<3",
+]
+
+[project.optional-dependencies]
+test = ["httpx2==2.13.1"]
+
+[project.scripts]
+truck-cycle = "truck_cycle.__main__:main"
+truck-cycle-web = "truck_cycle.web:main"
+
+[tool.setuptools]
+license-files = ["LICENSE", "NOTICE"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+truck_cycle = ["static/*.html"]

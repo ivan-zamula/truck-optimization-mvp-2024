@@ -1,0 +1,55 @@
+Ivan Zamula Attribution License 1.0
+SPDX-License-Identifier: LicenseRef-Ivan-Zamula-Attribution-1.0
+
+Copyright (c) 2024 Ivan Zamula
+Project: Truck Optimization MVP
+Original repository: https://github.com/ivan-zamula/truck-optimization-mvp-2024
+
+1. Permission
+
+Subject to the conditions below, you may use, copy, modify and distribute this
+project's code, documentation and original assets, including for commercial
+purposes. These materials are referred to as the Work.
+
+2. Required attribution
+
+Every copy of the Work or a substantial portion of it, including modified
+versions, must retain this license, the copyright notice and the original
+repository URL above. Copying or distributing such materials without that
+attribution is not permitted under this license.
+
+When sharing source code, place the following credit in the README or equivalent
+project documentation. When sharing a standalone file or excerpt, place it in a
+comment or accompanying notice. For binary distributions and hosted applications
+that use a substantial portion of the Work, include the credit in an accessible
+About, Credits or documentation page, together with a copy of this license:
+
+    Based on Truck Optimization MVP by Ivan Zamula.
+    Source: https://github.com/ivan-zamula/truck-optimization-mvp-2024
+
+Use a clickable link wherever the publication format supports hyperlinks.
+For plain text or printed materials, include the full repository URL.
+Do not replace the original repository URL with a link only to your fork.
+
+3. Modified versions
+
+Identify modified versions as modified and preserve the attribution required
+above. You may add your own copyright notices and terms for your contributions,
+provided they do not remove these attribution requirements for the Work.
+Attribution does not imply that Ivan Zamula endorses your version or product.
+
+4. Scope
+
+This license covers only material that the copyright holder is entitled to
+license. Third-party libraries and other separately licensed materials retain
+their own licenses. This license grants no rights to other private projects,
+trademarks or third-party patents. Rights and exceptions provided by applicable
+law are unaffected. A separate written permission from the copyright holder
+may allow other terms.
+
+5. Disclaimer
+
+The Work is provided "as is", without warranties of any kind, including
+merchantability, fitness for a particular purpose and non-infringement.
+To the extent permitted by applicable law, the copyright holder is not liable
+for claims, damages or other liability arising from the Work or its use.
